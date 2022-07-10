@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://www.playingo.be/sitemap1.xml.gz</loc>
-    <lastmod>2022-07-09T02:11:48.563+02:00</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://www.playingo.be/sitemap2.xml.gz</loc>
-    <lastmod>2022-07-09T02:11:48.563+02:00</lastmod>
+    <loc>https://www.playingo.be/sitemap.xml.gz</loc>
+    <lastmod>2022-07-10T02:10:03.257+02:00</lastmod>
   </sitemap>
 </sitemapindex>
